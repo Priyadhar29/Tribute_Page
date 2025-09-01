@@ -5,7 +5,7 @@ A simple and responsive **Tribute Page** built using HTML and CSS as part of Fre
 --- 
 
 ## 🔗 Live Demo
-[View Project](https://your-live-demo-link.com)
+[View Project](https://priyadhar29.github.io/Tribute_Page/)
 
 ---
 
